@@ -17,7 +17,7 @@ venv\Scripts\activate.bat
 
 ### Download python libraries
 ```
-python3 -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ### Fill database with fake data
