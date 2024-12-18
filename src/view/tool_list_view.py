@@ -1,5 +1,5 @@
 from PySide6.QtWidgets import QMainWindow, QDialog
-from src.ui.clients_list_window import Ui_Dialog
+from src.ui.tools_list_window import Ui_Dialog
 
 
 class ToolListView(QDialog):

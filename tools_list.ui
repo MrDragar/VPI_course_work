@@ -40,7 +40,7 @@
    </property>
    <item>
     <property name="text">
-     <string>Список клиентов: </string>
+     <string>Список инструментов: </string>
     </property>
    </item>
   </widget>
